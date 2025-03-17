@@ -1,0 +1,12 @@
+# Dependências Principais
+express==4.18.2
+cors==2.8.5
+sqlite3==5.1.6
+bcryptjs==2.4.3
+jsonwebtoken==9.0.0
+dotenv==16.0.3
+morgan==1.10.0
+express-validator==7.0.1
+
+# Dependências de Desenvolvimento
+nodemon==2.0.22

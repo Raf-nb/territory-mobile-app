@@ -122,4 +122,4 @@ Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
 
 ## Segurança
 
-Se você encontrar alguma vulnerabilidade de segurança neste projeto, por favor, envie um e-mail para [seu-email@exemplo.com](mailto:seu-email@exemplo.com) em vez de abrir uma issue pública.
+Se você encontrar alguma vulnerabilidade de segurança neste projeto, por favor, envie um e-mail para [silveriorafaelsantos@gmail.com](mailto:silveriorafaelsantos@gmail.com) em vez de abrir uma issue pública.
